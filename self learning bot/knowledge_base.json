@@ -1,0 +1,61 @@
+{
+  "questions": [
+    {
+      "question": "Wassup",
+      "answer": "Yo"
+    },
+    {
+        
+        "question": "What is your name?",
+        "answer": "I am a friendly bot designed to assist you."
+      },
+      {
+        
+        "question": "What can you do?",
+        "answer": "I can provide information, answer questions, and assist with various tasks."
+      },
+      {
+        
+        "question": "How can I contact support?",
+        "answer": "You can contact support by emailing support@example.com or calling our helpline at 123-456-7890."
+      },
+      {
+        
+        "question": "Tell me a joke.",
+        "answer": "Why did the computer go to therapy? It had too many bytes of emotional baggage!"
+      },
+      {
+       
+        "question": "What is the meaning of life?",
+        "answer": "The meaning of life is subjective and varies from person to person. Some find meaning in relationships, others in personal achievements."
+      },
+    {
+      "question": "Hello",
+      "answer": "Hi, how can i help you?"
+    },
+    {
+      "question": "hii",
+      "answer": "hello"
+    },
+    {
+      "question": "how are you doing",
+      "answer": "i am doing fine"
+    },
+    {
+      "question": "how's the weather today",
+      "answer": "i guess you should go out for a while"
+    },
+    {
+      "question": "what do you eat",
+      "answer": "i don't eat,i am a bot obviously!"
+    },
+    {
+      "question": "What is the meaning of life?",
+      "answer": "The meaning of life is subjective and varies from person to person. Some find meaning in relationships, others in personal achievements."
+    },
+    {
+      "question": "Tell me a joke.",
+      "answer": "Why did the computer go to therapy? It had too many bytes of emotional baggage!"
+    }
+  ]
+}
